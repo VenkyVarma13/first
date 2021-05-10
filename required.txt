@@ -2,3 +2,4 @@ required documnts
 git init 
 git ls
 git commit
+git clone
